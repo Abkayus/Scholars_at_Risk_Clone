@@ -28,6 +28,7 @@
 .header-wrapper {
     position: relative;
     padding-left: 110px;
+    width: 120%;
     padding-top: 20px;
     color: rgb(6, 6, 75);
     text-decoration: none;
@@ -90,7 +91,7 @@
     display: flex;
     padding: 14px 25px;
     text-decoration: none;
-    font-size: 1em;
+    font-size: 14px;
     color: white;
     font-family: 'Lato', sans-serif;
     opacity: 0.8;
@@ -162,7 +163,7 @@ input {
 }
 
 .left-content-wrapper p {
-    font-size: 1.12em;
+    font-size: 16px;
     width: 100%;
     font-weight: 400;
     line-height: 1.6em;
