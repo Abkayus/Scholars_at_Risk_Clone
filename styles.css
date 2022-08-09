@@ -27,7 +27,7 @@
 
 .header-wrapper {
     position: relative;
-    padding-left: 120px;
+    padding-left: 110px;
     padding-top: 20px;
     color: rgb(6, 6, 75);
     text-decoration: none;
@@ -65,7 +65,7 @@
 .nav-links {
     position: relative;
     background: rgb(6, 6, 75);
-    margin: 20px 120px 50px 120px;
+    margin: 20px 120px 50px 110px;
     border-radius: 3px;
     overflow: auto;
 }
@@ -88,7 +88,7 @@
 
 .nav-links ul li a {
     display: flex;
-    padding: 14px 24px;
+    padding: 14px 25px;
     text-decoration: none;
     font-size: 1em;
     color: white;
@@ -116,7 +116,7 @@ input {
 
 .intro {
     background-color: #fff;
-    margin: 0px 120px;
+    margin: 0px 110px;
     border-radius: 5px;
     width: 84%;
     margin-top: -435px;
