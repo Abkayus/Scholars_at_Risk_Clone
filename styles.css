@@ -28,7 +28,7 @@
 .header-wrapper {
     position: relative;
     padding-left: 100px;
-    width: 100%;
+    width: 110%;
     padding-top: 20px;
     color: rgb(6, 6, 75);
     text-decoration: none;
@@ -256,7 +256,7 @@ input {
     border: 1px groove;
     margin-left: 40px;
     margin-bottom: 50px;
-    width: 63%;
+    width: 61%;
 }
 
 #contact-wrapper h4 {
@@ -289,7 +289,7 @@ input {
 
 #links-wrapper {
     background-color: rgb(247, 247, 250);
-    width: 63%;
+    width: 61%;
     border: 1px groove;
     margin-right: 30px;
     margin-left: 10px;
