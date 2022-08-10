@@ -831,7 +831,9 @@ input {
         width: 85%;
         margin-left: 50px;
     }
-
+    .nav-links ul li a{
+        justify-content: center;
+    }
     .intro {
         height: 440vh;
     }
