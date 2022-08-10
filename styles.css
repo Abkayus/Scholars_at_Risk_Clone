@@ -1026,12 +1026,12 @@ input {
 
 @media only screen and (max-width: 375px) {
     .background-wrapper {
-        height: 770vh;
+        height: 750vh;
     }
 
     .header-wrapper {
         margin-left: -75px;
-        width: 340%;
+        width: 330%;
     }
 
     .nav-links {
@@ -1053,11 +1053,11 @@ input {
     }
 
     .right-container {
-        top: 1520px;
+        top: 1510px;
     }
 
     .copyright {
-        top: 4000px;
+        top: 3900px;
     }
 }
 
