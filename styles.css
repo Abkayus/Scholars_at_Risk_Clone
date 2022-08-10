@@ -550,7 +550,7 @@ input {
 
 @media only screen and (max-width: 999px) {
     .background-wrapper {
-        height: 365vh;
+        height: 355vh;
     }
 
     .header-wrapper {
