@@ -582,6 +582,10 @@ input {
        width: 98%; 
     }
     
+    .paragragh-1 {
+        width: 95%;
+    }
+    
     #right-bar {
         width: 95%;
         margin-right: 0px;
