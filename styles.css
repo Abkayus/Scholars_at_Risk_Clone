@@ -819,7 +819,7 @@ input {
 
 @media only screen and (max-width: 643px) {
     .background-wrapper {
-        height: 600vh;
+        height: 595vh;
     }
 
     .header-wrapper {
@@ -900,7 +900,7 @@ input {
     }
 
     .intro {
-        height: 465vh;
+        height: 462vh;
         margin-left: 10px;
         width: 96%;
     }
@@ -919,7 +919,7 @@ input {
     }
 
     .copyright {
-        top: 3380px;
+        top: 3375px;
     }
 
 }
