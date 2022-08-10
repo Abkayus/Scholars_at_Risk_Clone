@@ -992,7 +992,7 @@ input {
 
 @media only screen and (max-width: 418px) {
     .background-wrapper {
-        height: 690vh;
+        height: 700vh;
     } 
     .header-wrapper {
         margin-left: -55px;
