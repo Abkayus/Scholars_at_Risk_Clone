@@ -1057,6 +1057,12 @@ input {
         margin-top: -60vh;
         height: 240vh;
     }
+    .right-container {
+        top: 1300px;
+    }
+    .footer-wrapper {
+        top: 2000px;
+    }
     .copyright {
         top: 4500px;
     }
