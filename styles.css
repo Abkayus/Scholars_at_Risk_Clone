@@ -1054,7 +1054,7 @@ input {
 
 @media only screen and (max-width: 320px) {
     .background-wrapper {
-        height: 780vh;
+        height: 800vh;
     }
   
     .header-wrapper {
@@ -1067,7 +1067,7 @@ input {
     }
 
     .intro {
-        height: 625vh;
+        height: 623vh;
     }
     
     .right-container {
