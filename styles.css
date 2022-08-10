@@ -895,7 +895,7 @@ input {
 
 @media only screen and (max-width: 552px) {
     .background-wrapper {
-        height: 630vh;
+        height: 640vh;
     }
     .header-wrapper {
         left: 150px;
