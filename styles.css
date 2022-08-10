@@ -1055,13 +1055,13 @@ input {
 @media only screen and (max-width: 361px) {
     .intro {
         margin-top: -61vh;
-        height: 400vh;
+        height: 550vh;
     }
     .right-container {
-        top: 1450px;
+        top: 1800px;
     }
     .footer-wrapper {
-        top: 3200px;
+        top: 3500px;
     }
     .copyright {
         top: 4200px;
