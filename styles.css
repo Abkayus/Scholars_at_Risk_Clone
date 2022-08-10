@@ -575,7 +575,11 @@ input {
     }
 
     .left-right-wrapper {
-        width: 102%;
+        width: 103.5%;
+    }
+    
+    .left-content-wrapper p {
+       width: 90%; 
     }
     
     #right-bar {
