@@ -882,11 +882,6 @@ input {
     .item-wrapper1 {
         margin-top: 50px;
     }
-
-    #item-wrapper img {
-        width: 30%;
-        padding-bottom: 0;
-    }
 }
 
 @media only screen and (max-width: 552px) {
@@ -1053,18 +1048,30 @@ input {
     }
 
     .copyright {
-        top: 3950px;
+        top: 3930px;
     }
 }
 
 @media only screen and (max-width: 320px) {
+    .background-wrapper {
+        height: 765vh;
+    }
+  
     .header-wrapper {
-        margin-left: -85px;
-        width: 360%;
+        margin-left: -100px;
+        width: 380%;
+    }
+    
+    .nav-links {
+        margin-left: 18px;
     }
 
     .intro {
-        height: 590vh;
+        height: 620vh;
+    }
+    
+    .right-container {
+        top: 1550px;
     }
 
     .copyright {
