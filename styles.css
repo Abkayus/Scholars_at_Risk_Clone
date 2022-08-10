@@ -563,9 +563,9 @@ input {
     }
 
     .nav-links ul li a {
-        font-size: 13px;
+        font-size: 14px;
         font-weight: normal;
-        padding: 14px 13px;
+        padding: 14px 14px;
         z-index: 1;
     }
 
@@ -575,7 +575,7 @@ input {
     }
 
     .left-right-wrapper {
-        width: 103.5%;
+        width: 100%;
     }
 
     #right-bar {
@@ -597,11 +597,11 @@ input {
     }
 
     #contact-wrapper {
-        width: 38%;
+        width: 40%;
     }
 
     #links-wrapper {
-        width: 38%;
+        width: 40%;
     }
 
     .bottom-wrapper {
