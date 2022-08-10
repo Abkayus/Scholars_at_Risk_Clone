@@ -1054,7 +1054,7 @@ input {
 
 @media only screen and (max-width: 361px) {
     .intro {
-        top: 0px;
+        margin-top: 0px;
         height: 240vh;
     }
     .copyright {
