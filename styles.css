@@ -1030,8 +1030,8 @@ input {
     }
 
     .header-wrapper {
-        margin-left: -75px;
-        width: 340%;
+        margin-left: -95px;
+        width: 380%;
     }
 
     .nav-links {
@@ -1040,7 +1040,7 @@ input {
 
     .intro {
         margin-left: 7px;
-        height: 580vh
+        height: 600vh;
         width: 96%;
     }
 
@@ -1053,11 +1053,11 @@ input {
     }
 
     .right-container {
-        top: 1505px;
+        top: 1550px;
     }
 
     .copyright {
-        top: 3970px;
+        top: 4150px;
     }
 }
 
