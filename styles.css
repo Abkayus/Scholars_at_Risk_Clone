@@ -1058,7 +1058,7 @@ input {
     }
   
     .header-wrapper {
-        margin-left: -115px;
+        margin-left: -105px;
         width: 390%;
     }
     
@@ -1067,14 +1067,14 @@ input {
     }
 
     .intro {
-        height: 623vh;
+        height: 625vh;
     }
     
     .right-container {
-        top: 1550px;
+        top: 1600px;
     }
 
     .copyright {
-        top: 4200px;
+        top: 4250px;
     }
 }
