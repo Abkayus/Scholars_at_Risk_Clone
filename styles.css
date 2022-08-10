@@ -422,7 +422,7 @@ input {
 }
 
 #item-wrapper img {
-    width: 70%;
+    width: 100%;
 }
 
 .copyright {
@@ -1026,7 +1026,7 @@ input {
 
 @media only screen and (max-width: 375px) {
     .background-wrapper {
-        height: 730vh;
+        height: 745vh;
     }
 
     .header-wrapper {
