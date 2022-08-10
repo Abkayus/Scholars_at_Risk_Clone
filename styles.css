@@ -819,7 +819,7 @@ input {
 
 @media only screen and (max-width: 643px) {
     .background-wrapper {
-        height: 605vh;
+        height: 600vh;
     }
 
     .header-wrapper {
