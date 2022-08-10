@@ -1054,14 +1054,14 @@ input {
 
 @media only screen and (max-width: 361px) {
     .intro {
-        margin-top: -59vh;
-        height: 500vh;
+        margin-top: -62vh;
+        height: 460vh;
     }
     .right-container {
         top: 1540px;
     }
     .footer-wrapper {
-        top: 3200px;
+        top: 3260px;
     }
     .copyright {
         top: 4000px;
