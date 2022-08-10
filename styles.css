@@ -577,9 +577,9 @@ input {
     .left-right-wrapper {
         width: 100%;
     }
-
+    
     #right-bar {
-        width: 95%;
+        width: 90%;
         margin-right: 0px;
     }
 
@@ -588,7 +588,7 @@ input {
     }
 
     #right-bar1 {
-        width: 95%;
+        width: 90%;
         margin-right: 0px;
     }
 
