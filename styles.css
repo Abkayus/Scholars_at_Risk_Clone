@@ -819,7 +819,7 @@ input {
 
 @media only screen and (max-width: 643px) {
     .background-wrapper {
-        height: 615vh;
+        height: 605vh;
     }
 
     .header-wrapper {
@@ -835,11 +835,11 @@ input {
         justify-content: center;
     }
     .intro {
-        height: 440vh;
+        height: 435vh;
     }
 
     .right-container {
-        top: 1250px;
+        top: 1230px;
     }
 
     .bottom-wrapper {
