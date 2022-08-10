@@ -1055,7 +1055,7 @@ input {
 @media only screen and (max-width: 361px) {
     .intro {
         margin-top: -60vh;
-        height: 240vh;
+        height: 340vh;
     }
     .right-container {
         top: 1300px;
