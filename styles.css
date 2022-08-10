@@ -1055,10 +1055,10 @@ input {
 @media only screen and (max-width: 361px) {
     .intro {
         margin-top: -61vh;
-        height: 525vh;
+        height: 540vh;
     }
     .right-container {
-        top: 1570px;
+        top: 1540px;
     }
     .footer-wrapper {
         top: 3300px;
