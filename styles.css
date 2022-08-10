@@ -784,7 +784,7 @@ input {
 
 @media only screen and (max-width: 808px) {
     .background-wrapper {
-        height: 505vh;
+        height: 502vh;
     }
 
     .header-wrapper {
@@ -792,7 +792,7 @@ input {
     }
 
     .intro {
-        height: 403vh;
+        height: 40vh;
     }
 
     .contact-links {
