@@ -1024,7 +1024,7 @@ input {
     }
 }
 
-@media only screen and (max-width: 371px) {
+@media only screen and (max-width: 375px) {
     .background-wrapper {
         height: 725vh;
     }
@@ -1061,7 +1061,7 @@ input {
     }
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 320px) {
     .header-wrapper {
         margin-left: -85px;
         width: 360%;
