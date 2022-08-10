@@ -422,7 +422,7 @@ input {
 }
 
 #item-wrapper img {
-    width: 100%;
+    width: 70%;
 }
 
 .copyright {
@@ -537,10 +537,6 @@ input {
     #item-wrapper ul li {
         font-size: 14px;
         font-weight: normal;
-    }
-
-    #item-wrapper img {
-        width: 295px;
     }
 
     .copyright {
