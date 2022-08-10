@@ -951,7 +951,7 @@ input {
 
 @media only screen and (max-width: 487px) {
     .background-wrapper {
-        height: 665vh;
+        height: 663vh;
     } 
     .header-wrapper {
         margin-left: -15px;
@@ -991,6 +991,9 @@ input {
 }
 
 @media only screen and (max-width: 418px) {
+    .background-wrapper {
+        height: 690vh;
+    } 
     .header-wrapper {
         margin-left: -55px;
         width: 295%;
@@ -1001,7 +1004,7 @@ input {
     }
 
     .intro {
-        height: 528vh;
+        height: 518vh;
     }
 
     #contact-wrapper {
@@ -1013,11 +1016,11 @@ input {
     }
 
     .right-container {
-        top: 1440px;
+        top: 1410px;
     }
 
     .copyright {
-        top: 3720px;
+        top: 3700px;
     }
 }
 
