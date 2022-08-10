@@ -1052,6 +1052,16 @@ input {
     }
 }
 
+@media only screen and (max-width: 361px) {
+    .intro {
+        margin-top: -330px;
+        height: 540vh;
+    }
+    .copyright {
+        top: 4500px;
+    }
+}
+
 @media only screen and (max-width: 320px) {
     .background-wrapper {
         height: 798vh;
