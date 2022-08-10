@@ -929,7 +929,7 @@ input {
 
 @media only screen and (max-width: 517px) {
      .background-wrapper {
-        height: 640vh;
+        height: 645vh;
     }
     .header-wrapper {
         padding-left: 3px;
@@ -950,6 +950,9 @@ input {
 }
 
 @media only screen and (max-width: 487px) {
+    .background-wrapper {
+        height: 660vh;
+    } 
     .header-wrapper {
         margin-left: -15px;
         width: 260%;
