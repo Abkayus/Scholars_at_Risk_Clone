@@ -1054,7 +1054,7 @@ input {
 
 @media only screen and (max-width: 361px) {
     .background-wrapper {
-        height: 580vh;
+        height: 540vh;
     }
     .intro {
         margin-top: -70vh;
@@ -1068,7 +1068,7 @@ input {
         height: 85vh;
     }
     .copyright {
-        top: 4100px;
+        top: 4065px;
     }
 }
 
