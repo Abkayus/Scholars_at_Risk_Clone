@@ -1065,6 +1065,7 @@ input {
     }
     .footer-wrapper {
         top: 3390px;
+        height: 50vh;
     }
     .copyright {
         top: 4218px;
